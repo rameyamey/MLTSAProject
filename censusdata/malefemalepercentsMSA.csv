@@ -1,0 +1,66 @@
+﻿Company,City,MSA,"EstimatePercent MaleCivilian employed population 16 years and overManagement, business, science, and arts occupations","EstimatePercent FemaleCivilian employed population 16 years and overManagement, business, science, and arts occupations","EstimatePercent MaleCivilian employed population 16 years and overManagement, business, science, and arts occupationsManagement, business, and financial occupations","EstimatePercent FemaleCivilian employed population 16 years and overManagement, business, science, and arts occupationsManagement, business, and financial occupations","EstimatePercent MaleCivilian employed population 16 years and overManagement, business, science, and arts occupationsManagement, business, and financial occupationsManagement occupations","EstimatePercent FemaleCivilian employed population 16 years and overManagement, business, science, and arts occupationsManagement, business, and financial occupationsManagement occupations","EstimatePercent MaleCivilian employed population 16 years and overManagement, business, science, and arts occupationsManagement, business, and financial occupationsBusiness and financial operations occupations","EstimatePercent FemaleCivilian employed population 16 years and overManagement, business, science, and arts occupationsManagement, business, and financial occupationsBusiness and financial operations occupations",EstimatePercent MaleCivilian employed population 16 years and overSales and office occupations,EstimatePercent FemaleCivilian employed population 16 years and overSales and office occupations,EstimatePercent MaleCivilian employed population 16 years and overSales and office occupationsSales and related occupations,EstimatePercent FemaleCivilian employed population 16 years and overSales and office occupationsSales and related occupations,EstimatePercent MaleCivilian employed population 16 years and overSales and office occupationsOffice and administrative support occupations,EstimatePercent FemaleCivilian employed population 16 years and overSales and office occupationsOffice and administrative support occupations
+UPS,"Atlanta, Georgia","Atlanta-Sandy Springs-Alpharetta, GA MSA",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+ExxonMobile,"Atlanta, Georgia","Atlanta-Sandy Springs-Alpharetta, GA MSA",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+The home depot,"Atlanta, Georgia","Atlanta-Sandy Springs-Alpharetta, GA MSA",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Coca-Cola,"Atlanta, Georgia","Atlanta-Sandy Springs-Alpharetta, GA MSA",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Walmart,"Bentonville, Arkansas","Atlanta-Sandy Springs-Alpharetta, GA MSA",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Vertex,"Cambridge, Massachusetts","Boston-Cambridge-Quincy, MA-NH MSA",#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Synchrony,"Stamford, Connecticut","Bridgeport-Stamford-Norwalk, CT Metro Area",50.1,49.9,60.2,39.8,64,36,54.3,45.7,42.9,57.1,56.1,43.9,27.6,72.4
+Duke,"Charlotte, North Carolina","Charlotte-Concord-Gastonia, NC-SC Metro Area",47.7,52.3,55,45,61.3,38.7,45,55,38.4,61.6,50.5,49.5,25.7,74.3
+Bank of America,"Charlotte, North Carolina","Charlotte-Concord-Gastonia, NC-SC Metro Area",47.7,52.3,55,45,61.3,38.7,45,55,38.4,61.6,50.5,49.5,25.7,74.3
+Ventas,"Chicago, Illinois","Chicago-Naperville-Elgin, IL-IN-WI Metro Area",48.2,51.8,55.3,44.7,59.6,40.4,48.3,51.7,38.6,61.4,51.6,48.4,26.8,73.2
+Boeing,"Chicago, Illinois","Chicago-Naperville-Elgin, IL-IN-WI Metro Area",48.2,51.8,55.3,44.7,59.6,40.4,48.3,51.7,38.6,61.4,51.6,48.4,26.8,73.2
+CDW,"Lincolnshire, Illinois","Chicago-Naperville-Elgin, IL-IN-WI Metro Area",48.2,51.8,55.3,44.7,59.6,40.4,48.3,51.7,38.6,61.4,51.6,48.4,26.8,73.2
+Ulta,"Bolingbrook, Illinois","Chicago-Naperville-Elgin, IL-IN-WI Metro Area",48.2,51.8,55.3,44.7,59.6,40.4,48.3,51.7,38.6,61.4,51.6,48.4,26.8,73.2
+Proctor and Gamble,"Cincinnati, Ohio","Cincinnati, OH-KY-IN Metro Area",47,53,54.9,45.1,59.6,40.4,47,53,37.8,62.2,51.5,48.5,26.2,73.8
+KeyBank,"Cleveland, Ohio","Cleveland-Elyria, OH Metro Area",46.5,53.5,55,45,60.5,39.5,45.4,54.6,35.4,64.6,50.4,49.6,23.3,76.7
+Progressive,"Mayfield Village, Ohio","Cleveland-Elyria, OH Metro Area",46.5,53.5,55,45,60.5,39.5,45.4,54.6,35.4,64.6,50.4,49.6,23.3,76.7
+At&T,"Dallas, Texas","Dallas-Fort Worth-Arlington, TX Metro Area",49.6,50.4,55.5,44.5,60.7,39.3,46.9,53.1,39.5,60.5,52.1,47.9,27.7,72.3
+Celanese,"Irving, Texas","Dallas-Fort Worth-Arlington, TX Metro Area",49.6,50.4,55.5,44.5,60.7,39.3,46.9,53.1,39.5,60.5,52.1,47.9,27.7,72.3
+General Dynamics,"Falls Church, Virginia","Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",49.8,50.2,52.1,47.9,56.1,43.9,46,54,38.6,61.4,50.2,49.8,29.3,70.7
+Regency Centers,"Falls Church, Virginia","Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",49.8,50.2,52.1,47.9,56.1,43.9,46,54,38.6,61.4,50.2,49.8,29.3,70.7
+Hershey,"Hershey, Pennsylvania","Harrisburg-Carlisle, PA Metro Area",47.3,52.7,54.8,45.2,60.3,39.7,47,53,35.5,64.5,49.5,50.5,25.1,74.9
+Baker Hughes Co,"Houston, Texas","Houston-The Woodlands-Sugar Land, TX Metro Area",50.4,49.6,57.5,42.5,63.3,36.7,47.4,52.6,39.1,60.9,51,49,27,73
+Occidenal,"Houston, Texas","Houston-The Woodlands-Sugar Land, TX Metro Area",50.4,49.6,57.5,42.5,63.3,36.7,47.4,52.6,39.1,60.9,51,49,27,73
+Anthem Inc,"Indianapolis, Indiana","Indianapolis-Carmel-Anderson, IN Metro Area",46.7,53.3,54.2,45.8,58.6,41.4,46.5,53.5,36.7,63.3,51,49,24.6,75.4
+CMS,"Jackson, Michigan","Jackson, MI Metro Area",46.1,53.9,55.5,44.5,61.3,38.7,44.1,55.9,31.6,68.4,48.7,51.3,19.1,80.9
+Berkshire Hathaway,"Omaha, Nebraska","Lawrence, KS Metro Area",47.3,52.7,53.4,46.6,58.6,41.4,42.8,57.2,38.1,61.9,46,54,31.3,68.7
+Walt Disney,"Burbank, California","Los Angeles-Long Beach-Anaheim, CA Metro Area",51.1,48.9,54.9,45.1,59.5,40.5,46.4,53.6,41,59,51.7,48.3,31.1,68.9
+Avery Dennison Corp,"Glendale, California","Los Angeles-Long Beach-Anaheim, CA Metro Area",51.1,48.9,54.9,45.1,59.5,40.5,46.4,53.6,41,59,51.7,48.3,31.1,68.9
+GM,"Detroit, Michigan","Detroit-Warren-Dearborn, MI Metro Area",49.4,50.6,55,45,60,40,46.2,53.8,35.5,64.5,50,50,22.7,77.3
+Kohls,"Menomonee Falls, Wisconsin","Milwaukee-Waukesha-West Allis, WI Metro Area",46.3,53.7,52.8,47.2,57.8,42.2,44.7,55.3,36.9,63.1,51.3,48.7,24.6,75.4
+Best Buy,"Richfield, Minnesota","Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",47.7,52.3,53.2,46.8,58.4,41.6,44.9,55.1,40.2,59.8,54.2,45.8,28,72
+United Health,"Minnetonka, Minnesota","Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",47.7,52.3,53.2,46.8,58.4,41.6,44.9,55.1,40.2,59.8,54.2,45.8,28,72
+Merck,"Kenilworth, New Jersey","New York-Newark-Jersey City, NY-NJ-PA Metro Area",47.9,52.1,56.3,43.7,59.3,40.7,51.2,48.8,40.1,59.9,53.5,46.5,28.1,71.9
+Zoetis,"Florham Park, New Jersey","New York-Newark-Jersey City, NY-NJ-PA Metro Area",47.9,52.1,56.3,43.7,59.3,40.7,51.2,48.8,40.1,59.9,53.5,46.5,28.1,71.9
+Johnson and Johnson,"New Brunswick, New Jersey","New York-Newark-Jersey City, NY-NJ-PA Metro Area",47.9,52.1,56.3,43.7,59.3,40.7,51.2,48.8,40.1,59.9,53.5,46.5,28.1,71.9
+IBM,"Armonk, New York","New York-Newark-Jersey City, NY-NJ-PA Metro Area",47.9,52.1,56.3,43.7,59.3,40.7,51.2,48.8,40.1,59.9,53.5,46.5,28.1,71.9
+Mastercard,"Harrison, New York","New York-Newark-Jersey City, NY-NJ-PA Metro Area",47.9,52.1,56.3,43.7,59.3,40.7,51.2,48.8,40.1,59.9,53.5,46.5,28.1,71.9
+PepsiCo,"Purchase, New York","New York-Newark-Jersey City, NY-NJ-PA Metro Area",47.9,52.1,56.3,43.7,59.3,40.7,51.2,48.8,40.1,59.9,53.5,46.5,28.1,71.9
+Nasdaq,"New York, New York","New York-Newark-Jersey City, NY-NJ-PA Metro Area",47.9,52.1,56.3,43.7,59.3,40.7,51.2,48.8,40.1,59.9,53.5,46.5,28.1,71.9
+JP Morgan,"New York, New York","New York-Newark-Jersey City, NY-NJ-PA Metro Area",47.9,52.1,56.3,43.7,59.3,40.7,51.2,48.8,40.1,59.9,53.5,46.5,28.1,71.9
+Verizon,"New York, New York","New York-Newark-Jersey City, NY-NJ-PA Metro Area",47.9,52.1,56.3,43.7,59.3,40.7,51.2,48.8,40.1,59.9,53.5,46.5,28.1,71.9
+Pfizer,"New York, New York","New York-Newark-Jersey City, NY-NJ-PA Metro Area",47.9,52.1,56.3,43.7,59.3,40.7,51.2,48.8,40.1,59.9,53.5,46.5,28.1,71.9
+Comcast,"Philadelphia, Pennsylvania","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",46.4,53.6,54.6,45.4,58.6,41.4,48.1,51.9,37.2,62.8,51.2,48.8,25.7,74.3
+American Water Works,"Camden, New Jersey","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",46.4,53.6,54.6,45.4,58.6,41.4,48.1,51.9,37.2,62.8,51.2,48.8,25.7,74.3
+Gap,"San Francisco, California","San Francisco-Oakland-Hayward, CA Metro Area",51.7,48.3,53.1,46.9,57.7,42.3,45.3,54.7,41.4,58.6,53,47,30.1,69.9
+Visa,"San Francisco, California","San Francisco-Oakland-Hayward, CA Metro Area",51.7,48.3,53.1,46.9,57.7,42.3,45.3,54.7,41.4,58.6,53,47,30.1,69.9
+WellsFargo,"San Francisco, California","San Francisco-Oakland-Hayward, CA Metro Area",51.7,48.3,53.1,46.9,57.7,42.3,45.3,54.7,41.4,58.6,53,47,30.1,69.9
+Franklin Resources,"San Mateo, California","San Francisco-Oakland-Hayward, CA Metro Area",51.7,48.3,53.1,46.9,57.7,42.3,45.3,54.7,41.4,58.6,53,47,30.1,69.9
+Ross,"Dublin, California","San Francisco-Oakland-Hayward, CA Metro Area",51.7,48.3,53.1,46.9,57.7,42.3,45.3,54.7,41.4,58.6,53,47,30.1,69.9
+Facebook,"Menlo Park, California","San Francisco-Oakland-Hayward, CA Metro Area",51.7,48.3,53.1,46.9,57.7,42.3,45.3,54.7,41.4,58.6,53,47,30.1,69.9
+Chevron,"San Ramon, California","San Francisco-Oakland-Hayward, CA Metro Area",51.7,48.3,53.1,46.9,57.7,42.3,45.3,54.7,41.4,58.6,53,47,30.1,69.9
+Apple,"Cupertino, California","San Jose-Sunnyvale-Santa Clara, CA Metro Area",56.9,43.1,54.5,45.5,61,39,42.5,57.5,40.4,59.6,52,48,29.3,70.7
+Alphabet,"Mountain View, California","San Jose-Sunnyvale-Santa Clara, CA Metro Area",56.9,43.1,54.5,45.5,61,39,42.5,57.5,40.4,59.6,52,48,29.3,70.7
+Cisco,"San Jose, California","San Jose-Sunnyvale-Santa Clara, CA Metro Area",56.9,43.1,54.5,45.5,61,39,42.5,57.5,40.4,59.6,52,48,29.3,70.7
+Adobe,"San Jose, California","San Jose-Sunnyvale-Santa Clara, CA Metro Area",56.9,43.1,54.5,45.5,61,39,42.5,57.5,40.4,59.6,52,48,29.3,70.7
+Advanced,"Santa Clara, California","San Jose-Sunnyvale-Santa Clara, CA Metro Area",56.9,43.1,54.5,45.5,61,39,42.5,57.5,40.4,59.6,52,48,29.3,70.7
+Arista,"Santa Clara, California","San Jose-Sunnyvale-Santa Clara, CA Metro Area",56.9,43.1,54.5,45.5,61,39,42.5,57.5,40.4,59.6,52,48,29.3,70.7
+Intel,"Santa Clara, California","San Jose-Sunnyvale-Santa Clara, CA Metro Area",56.9,43.1,54.5,45.5,61,39,42.5,57.5,40.4,59.6,52,48,29.3,70.7
+Oracle,"Redwood Shores, California","San Francisco-Oakland-Hayward, CA Metro Area",51.7,48.3,53.1,46.9,57.7,42.3,45.3,54.7,41.4,58.6,53,47,30.1,69.9
+Microsoft,"Redmond, Washington","Seattle-Tacoma-Bellevue, WA Metro Area",52.3,47.7,53.8,46.2,58.8,41.2,44.9,55.1,39.7,60.3,51.7,48.3,28.8,71.2
+Amazon,"Seattle, Washington","Seattle-Tacoma-Bellevue, WA Metro Area",52.3,47.7,53.8,46.2,58.8,41.2,44.9,55.1,39.7,60.3,51.7,48.3,28.8,71.2
+Lockheed Martin,"Bethesda, Maryland","Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",49.8,50.2,52.1,47.9,56.1,43.9,46,54,38.6,61.4,50.2,49.8,29.3,70.7
+Northrop,"West Falls Church, Virginia","Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",49.8,50.2,52.1,47.9,56.1,43.9,46,54,38.6,61.4,50.2,49.8,29.3,70.7
+Mylan N.V.,"Amsterdam, Netherlands",XX,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+Accenture,"Dublin, Ireland",XX,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A

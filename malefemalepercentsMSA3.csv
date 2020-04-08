@@ -1,0 +1,66 @@
+﻿Company,City,MSA,MalepercentBusiness,FemalePercentBusiness,Difference
+Synchrony,"Stamford, Connecticut","Bridgeport-Stamford-Norwalk, CT Metro Area",50.1,49.9,0.2
+Duke,"Charlotte, North Carolina","Charlotte-Concord-Gastonia, NC-SC Metro Area",47.7,52.3,-4.6
+Bank of America,"Charlotte, North Carolina","Charlotte-Concord-Gastonia, NC-SC Metro Area",47.7,52.3,-4.6
+Ventas,"Chicago, Illinois","Chicago-Naperville-Elgin, IL-IN-WI Metro Area",48.2,51.8,-3.6
+Boeing,"Chicago, Illinois","Chicago-Naperville-Elgin, IL-IN-WI Metro Area",48.2,51.8,-3.6
+CDW,"Lincolnshire, Illinois","Chicago-Naperville-Elgin, IL-IN-WI Metro Area",48.2,51.8,-3.6
+Ulta,"Bolingbrook, Illinois","Chicago-Naperville-Elgin, IL-IN-WI Metro Area",48.2,51.8,-3.6
+Proctor and Gamble,"Cincinnati, Ohio","Cincinnati, OH-KY-IN Metro Area",47,53,-6
+KeyBank,"Cleveland, Ohio","Cleveland-Elyria, OH Metro Area",46.5,53.5,-7
+Progressive,"Mayfield Village, Ohio","Cleveland-Elyria, OH Metro Area",46.5,53.5,-7
+At&T,"Dallas, Texas","Dallas-Fort Worth-Arlington, TX Metro Area",49.6,50.4,-0.8
+Celanese,"Irving, Texas","Dallas-Fort Worth-Arlington, TX Metro Area",49.6,50.4,-0.8
+General Dynamics,"Falls Church, Virginia","Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",49.8,50.2,-0.4
+Regency Centers,"Falls Church, Virginia","Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",49.8,50.2,-0.4
+Hershey,"Hershey, Pennsylvania","Harrisburg-Carlisle, PA Metro Area",47.3,52.7,-5.4
+Baker Hughes Co,"Houston, Texas","Houston-The Woodlands-Sugar Land, TX Metro Area",50.4,49.6,0.8
+Occidenal,"Houston, Texas","Houston-The Woodlands-Sugar Land, TX Metro Area",50.4,49.6,0.8
+Anthem Inc,"Indianapolis, Indiana","Indianapolis-Carmel-Anderson, IN Metro Area",46.7,53.3,-6.6
+CMS,"Jackson, Michigan","Jackson, MI Metro Area",46.1,53.9,-7.8
+Berkshire Hathaway,"Omaha, Nebraska","Lawrence, KS Metro Area",47.3,52.7,-5.4
+Walt Disney,"Burbank, California","Los Angeles-Long Beach-Anaheim, CA Metro Area",51.1,48.9,2.2
+Avery Dennison Corp,"Glendale, California","Los Angeles-Long Beach-Anaheim, CA Metro Area",51.1,48.9,2.2
+GM,"Detroit, Michigan","Detroit-Warren-Dearborn, MI Metro Area",49.4,50.6,-1.2
+Kohls,"Menomonee Falls, Wisconsin","Milwaukee-Waukesha-West Allis, WI Metro Area",46.3,53.7,-7.4
+Best Buy,"Richfield, Minnesota","Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",47.7,52.3,-4.6
+United Health,"Minnetonka, Minnesota","Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",47.7,52.3,-4.6
+Merck,"Kenilworth, New Jersey","New York-Newark-Jersey City, NY-NJ-PA Metro Area",47.9,52.1,-4.2
+Zoetis,"Florham Park, New Jersey","New York-Newark-Jersey City, NY-NJ-PA Metro Area",47.9,52.1,-4.2
+Johnson and Johnson,"New Brunswick, New Jersey","New York-Newark-Jersey City, NY-NJ-PA Metro Area",47.9,52.1,-4.2
+IBM,"Armonk, New York","New York-Newark-Jersey City, NY-NJ-PA Metro Area",47.9,52.1,-4.2
+Mastercard,"Harrison, New York","New York-Newark-Jersey City, NY-NJ-PA Metro Area",47.9,52.1,-4.2
+PepsiCo,"Purchase, New York","New York-Newark-Jersey City, NY-NJ-PA Metro Area",47.9,52.1,-4.2
+Nasdaq,"New York, New York","New York-Newark-Jersey City, NY-NJ-PA Metro Area",47.9,52.1,-4.2
+JP Morgan,"New York, New York","New York-Newark-Jersey City, NY-NJ-PA Metro Area",47.9,52.1,-4.2
+Verizon,"New York, New York","New York-Newark-Jersey City, NY-NJ-PA Metro Area",47.9,52.1,-4.2
+Pfizer,"New York, New York","New York-Newark-Jersey City, NY-NJ-PA Metro Area",47.9,52.1,-4.2
+Comcast,"Philadelphia, Pennsylvania","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",46.4,53.6,-7.2
+American Water Works,"Camden, New Jersey","Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",46.4,53.6,-7.2
+Gap,"San Francisco, California","San Francisco-Oakland-Hayward, CA Metro Area",51.7,48.3,3.4
+Visa,"San Francisco, California","San Francisco-Oakland-Hayward, CA Metro Area",51.7,48.3,3.4
+WellsFargo,"San Francisco, California","San Francisco-Oakland-Hayward, CA Metro Area",51.7,48.3,3.4
+Franklin Resources,"San Mateo, California","San Francisco-Oakland-Hayward, CA Metro Area",51.7,48.3,3.4
+Ross,"Dublin, California","San Francisco-Oakland-Hayward, CA Metro Area",51.7,48.3,3.4
+Facebook,"Menlo Park, California","San Francisco-Oakland-Hayward, CA Metro Area",51.7,48.3,3.4
+Chevron,"San Ramon, California","San Francisco-Oakland-Hayward, CA Metro Area",51.7,48.3,3.4
+Apple,"Cupertino, California","San Jose-Sunnyvale-Santa Clara, CA Metro Area",56.9,43.1,13.8
+Alphabet,"Mountain View, California","San Jose-Sunnyvale-Santa Clara, CA Metro Area",56.9,43.1,13.8
+Cisco,"San Jose, California","San Jose-Sunnyvale-Santa Clara, CA Metro Area",56.9,43.1,13.8
+Adobe,"San Jose, California","San Jose-Sunnyvale-Santa Clara, CA Metro Area",56.9,43.1,13.8
+Advanced,"Santa Clara, California","San Jose-Sunnyvale-Santa Clara, CA Metro Area",56.9,43.1,13.8
+Arista,"Santa Clara, California","San Jose-Sunnyvale-Santa Clara, CA Metro Area",56.9,43.1,13.8
+Intel,"Santa Clara, California","San Jose-Sunnyvale-Santa Clara, CA Metro Area",56.9,43.1,13.8
+Oracle,"Redwood Shores, California","San Francisco-Oakland-Hayward, CA Metro Area",51.7,48.3,3.4
+Microsoft,"Redmond, Washington","Seattle-Tacoma-Bellevue, WA Metro Area",52.3,47.7,4.6
+Amazon,"Seattle, Washington","Seattle-Tacoma-Bellevue, WA Metro Area",52.3,47.7,4.6
+Lockheed Martin,"Bethesda, Maryland","Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",49.8,50.2,-0.4
+Northrop,"West Falls Church, Virginia","Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",49.8,50.2,-0.4
+Mylan N.V.,"Amsterdam, Netherlands",XX,#N/A,#N/A,#N/A
+Accenture,"Dublin, Ireland",XX,#N/A,#N/A,#N/A
+UPS,"Atlanta, Georgia","Atlanta-Sandy Springs-Alpharetta, GA MSA",#N/A,#N/A,#N/A
+ExxonMobile,"Atlanta, Georgia","Atlanta-Sandy Springs-Alpharetta, GA MSA",#N/A,#N/A,#N/A
+The home depot,"Atlanta, Georgia","Atlanta-Sandy Springs-Alpharetta, GA MSA",#N/A,#N/A,#N/A
+Coca-Cola,"Atlanta, Georgia","Atlanta-Sandy Springs-Alpharetta, GA MSA",#N/A,#N/A,#N/A
+Walmart,"Bentonville, Arkansas","Atlanta-Sandy Springs-Alpharetta, GA MSA",#N/A,#N/A,#N/A
+Vertex,"Cambridge, Massachusetts","Boston-Cambridge-Quincy, MA-NH MSA",#N/A,#N/A,#N/A
